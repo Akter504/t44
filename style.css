@@ -1,0 +1,22 @@
+body {
+    color: rgb(255, 0, 0);
+    background: rgb(255, 255, 255);
+    font-family: 'URW Chancery L', cursive;
+   }
+   h1 {
+    text-align: center;
+   }
+   li {
+    list-style-type: none;
+    color :rgb(0, 0, 0);
+    }
+    a{
+        text-decoration:none;
+        }
+   img[alt] {
+    width: 300px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+   }
+
+   
